@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eI/3vEAZ+Iydjfe/eb2HHZw6MJbZ+0MZ2m3vNnFTXmu+dZK5/ikFRfc0Gy8/VNpupc/A7wBzbgzkXNAtja0FJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Fiori\\Documents\\Kafka\\ProducerKafka\\ProducerKafka\\ProducerKafka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Fiori\\.nuget\\packages\\confluent.kafka\\1.8.1\\confluent.kafka.1.8.1.nupkg.sha512",
+    "C:\\Users\\Ana Fiori\\.nuget\\packages\\librdkafka.redist\\1.8.0\\librdkafka.redist.1.8.0.nupkg.sha512",
+    "C:\\Users\\Ana Fiori\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
